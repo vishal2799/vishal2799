@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 👨‍🎓 Recent computer science graduate from Jagannath University - Jaipur
+
 - 🔭 I’m currently working on [recipe-app](https://github.com/vishal2799/rn-recipe-app)
 
 - 🌱 I’m currently learning **React Native**
