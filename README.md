@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front-End developer from India</h3>
 
 - 👨‍🎓 Recent computer science graduate from Jagannath University - Jaipur
 
