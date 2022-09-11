@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vishal-dev-portfolio.netlify.com/](https://vishal-dev-portfolio.netlify.com/)
 
-- 💬 Ask me about **react, react-native**
+- 💬 Ask me about **JavaScript, React, React-native**
 
 - 📫 How to reach me **sharma.vishal2799@gmail.com**
 
