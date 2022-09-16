@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [recipe-app](https://github.com/vishal2799/rn-recipe-app)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://vishal-dev-portfolio.netlify.com/](https://vishal-dev-portfolio.netlify.com/)
 
