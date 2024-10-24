@@ -7,8 +7,7 @@ I'm a passionate *Frontend Developer* with a knack for building responsive, user
 
 ### 🛠 Skills & Tools
 
-- *Frontend:* HTML, CSS, JavaScript, React, Bootstrap
-- *Backend:* Node.js (basic knowledge)
+- *Frontend:* HTML, CSS, JavaScript, ReactJS, Angular, Bootstrap, Tailwind
 - *Low-Code Platforms:* Power Apps, Power Automate, Power BI
 - *Tools:* Visual Studio Code, Git, Figma
 
