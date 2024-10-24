@@ -16,6 +16,7 @@ I'm a passionate *Frontend Developer* with a knack for building responsive, user
 
 - Microsoft Certified: *Power Platform Fundamentals (PL-900)*
 - Microsoft Certified: *Azure Fundamentals (AZ-900)*
+- Microsoft Certified: *Power Platform Functional Consultant (PL-200) (In Progress)*
 
 ### 🚀 Projects
 
