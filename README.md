@@ -31,7 +31,7 @@ I'm a passionate *Frontend Developer* with a knack for building responsive, user
 [https://portfolio-react-js-rose.vercel.app/](https://portfolio-react-js-rose.vercel.app/)
 
 ### 📄 CV
-[Digital CV]([https://www.canva.com/design/DAFIVSQVu-I/LIPxUnAMd7crBKQqfy-Ajg/view?utm_content=DAFIVSQVu-I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAGRIPKtc28/B5Q-oV1O1X1OkvT_1KbzDg/edit?utm_content=DAGRIPKtc28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))  
+[Digital CV](https://www.canva.com/design/DAGRIPKtc28/B5Q-oV1O1X1OkvT_1KbzDg/edit?utm_content=DAGRIPKtc28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ### 📫 Get In Touch
 <p align="left">
